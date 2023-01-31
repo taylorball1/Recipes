@@ -1,11 +1,11 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: "Disney Recipes "
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-01-31T14:59:52.171Z
 ---
-
 Here is an introduction to my recipe site
 
 You should use **markdown** to write this text and this will automatically be converted to `HTML`.
