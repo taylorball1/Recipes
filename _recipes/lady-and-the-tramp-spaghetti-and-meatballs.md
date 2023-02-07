@@ -4,6 +4,10 @@ date: 2023-02-07T17:58:37.182Z
 order: 3
 layout: recipe
 ---
+intro for spaghetti and meatballs 
+
+![Spaghetti and meatballs ](../uploads/diego-ramirez-oc3lzi9p6ku-unsplash.jpg)
+
 ## **Ingredients:**
 
 * 1 pound ground beef 
@@ -17,8 +21,6 @@ layout: recipe
 * 5 portions of hot cooked spaghetti (about 8 ounces uncooked pasta)
 * 5 tablespoons grated Parmesan cheese
 * 5 tablespoons chopped fresh basil
-
-
 
 ## M﻿ethod:
 
