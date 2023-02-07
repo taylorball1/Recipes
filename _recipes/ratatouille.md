@@ -4,9 +4,11 @@ date: 2023-02-07T18:01:36.542Z
 order: 4
 layout: recipe
 ---
+into for ratatouille 
+
 ## I﻿ngredients 
 
-* 2 large aubergines
+* 2 large aubergines   
 * 4 small courgettes
 * 2 red or yellow peppers
 * 4 large ripe tomatoes
@@ -17,9 +19,7 @@ layout: recipe
 * 1 tbsp red wine vinegar
 * 1 tsp sugar (any kind)
 
-
-
-## M﻿ethod 
+## M﻿ethod
 
 1. Cut 2 large aubergines in half lengthways. Place them on the board, cut side down, slice in half lengthways again and then across into 1.5cm chunks. Cut the ends off 4 small courgettes, then across into 1.5cm slices.
 2. Peel 2 red or yellow peppers from stalk to bottom. Hold upright, cut around the stalk, then cut into 3 pieces. Cut away any membrane, then chop into bite-size chunks.
