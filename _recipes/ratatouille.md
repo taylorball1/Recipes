@@ -6,7 +6,9 @@ layout: recipe
 ---
 into for ratatouille 
 
-## I﻿ngredients 
+![Ratatouille](../uploads/amirali-mirhashemian-r02kgl5ti3y-unsplash.jpg)
+
+## I﻿ngredients
 
 * 2 large aubergines   
 * 4 small courgettes
