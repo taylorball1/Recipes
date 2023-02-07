@@ -4,7 +4,9 @@ date: 2023-02-07T18:04:13.379Z
 order: 5
 layout: recipe
 ---
-## I﻿ngredients: 
+![Chocolate Chip cookies ](../uploads/food-photographer-jennifer-pallian-ofddiqx8cz8-unsplash.jpg)
+
+## I﻿ngredients:
 
 * 3 cups (380 grams) all-purpose flour
 * 1 teaspoon baking soda
@@ -16,9 +18,7 @@ layout: recipe
 * 2 large eggs, at room temperature
 * 2 cups (340 grams) semisweet chocolate chips
 
-
-
-## M﻿ethod: 
+## M﻿ethod:
 
 1. Preheat oven to 350ºF. Line baking sheets with parchment paper.
 2. In a medium bowl, combine the flour, baking soda, and salt.
