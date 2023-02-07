@@ -1,9 +1,9 @@
 ---
-layout: recipe
 title: Some recipe
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
 Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
 
