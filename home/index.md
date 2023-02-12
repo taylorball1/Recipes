@@ -1,6 +1,6 @@
 ---
 title: "Disney Recipes "
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/cover1.jpg
 permalink: /
 layout: recipeshome
 published: true
