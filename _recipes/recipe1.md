@@ -1,7 +1,7 @@
 ---
 title: Some recipe
 date: 2022-10-19
-order: 1
+order: 5
 layout: recipe
 published: true
 ---
