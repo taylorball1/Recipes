@@ -16,14 +16,15 @@
 
 body{
   background-color: beige;
-}
+}`  1
 
 h1, h2 {
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
-  color: rgb(221, 18, 18);
+  color: rgb(17, 100, 233);
+  font-size: 38px;
   margin-bottom: 12px;
   margin-top: 12px;
   text-align: center;
