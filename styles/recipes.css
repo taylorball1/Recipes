@@ -14,15 +14,17 @@
 
 /* the rest is up to you */
 
+body.recipes.home header {
+  display: none;
+
+}
+
 body{
   background-color: beige; 
 }
 
-h1, h2 {
+h1{
   font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
-h1 {
   color: rgb(17, 100, 233);
   font-size: 25px;
   margin-bottom: 12px;
@@ -35,7 +37,8 @@ p {
 }
 
 h2 {
-  color: green;
+  color: #000000;
+  font-size: 20px;
   margin-top: 15px;
   margin-bottom: 12px;
   
@@ -43,14 +46,18 @@ h2 {
 
 main {
   width:60%;
-  padding: 0 12px;
+  padding-top: 90px;
   margin: 0 auto;
   /* border: 1px solid purple; */
   background-color: white;
 }
 
-img { 
+.home img{
+  width: 100%;
+}
 
+img { 
+  padding-top: 10px;
   width: 100%;
   /* float: right; */
 }
@@ -74,4 +81,22 @@ ol{
 float:right;
 width:60%;
 font-size: .8em;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(155, 208, 255);
+  position:fixed;
+  width:100%;
+  padding-bottom: 10px;
+}
+
+header .branding h1{
+  color: rgb(13, 0, 253);
+  font-size: 40px;
+}
+
+footer {
+  position:fixed;
+  width:100%;
 }
