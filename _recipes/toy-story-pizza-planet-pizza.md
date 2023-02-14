@@ -6,7 +6,7 @@ layout: recipe
 ---
 I﻿ntro for pizza 
 
-![Homemade Pizza ](../uploads/sahal-hameed-nq9klqttebq-unsplash.jpg)
+![Homemade Pizza ](../uploads/sahal-hameed-nq9klqttebq-unsplash.jpg "Homemade Pizza ")
 
 ## **Ingredients**
 
@@ -30,3 +30,5 @@ I﻿ntro for pizza
 6. Spread the tomato sauce over the pizza dough, then sprinkle with cheese and any desired toppings. 
 7. Bake for 15-20 minutes, or until the cheese is melted and bubbly.
 8. Cut evenly into eight triangular slices and enjoy!
+
+![Pizza Planet Rocket ](../uploads/brie-odom-mabey-gkq-qhccbvy-unsplash.jpg "Pizza Planet Rocket ")
