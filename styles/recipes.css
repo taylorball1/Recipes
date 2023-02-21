@@ -17,11 +17,15 @@
 
 
 body{
-  background-color: rgb(122, 237, 255);
+  background-image: url("../uploads/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding: 100px 0px;
 }
 
-/* background-image: url("../uploads/istockphoto-175242538-170667a.jpg");
-} */
+
+
+
 
 h1{
   font-family:Georgia, 'Times New Roman', Times, serif;
@@ -34,6 +38,9 @@ h1{
 
 p {
   color: rgb(79, 77, 77);
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 h2 {
@@ -41,6 +48,7 @@ h2 {
   font-size: 20px;
   margin-top: 15px;
   margin-bottom: 12px;
+  margin-left: 6px;
   
 }
 
@@ -48,18 +56,19 @@ h3 {
   margin-left: 2px;
 }
 main {
-  width:60%;
+  width:55%;
   margin: 0 auto;
   /* border: 1px solid purple; */
   background-color: white;
+  padding-bottom: 1px;
 }
 
-.home img{
-  width: 100%;
-}
 
 img { 
-  width: 100%;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 15px;
+
   /* float: right; */
 }
 
@@ -84,7 +93,7 @@ width:60%;
 font-size: .8em;
 }
 
-/* header {
+header {
   text-align: center;
   background-color: rgb(155, 208, 255);
   position:fixed;
@@ -93,7 +102,7 @@ font-size: .8em;
   top: 0;
   z-index: 1;
   height: 5rem;
-} */
+}
 
 header .branding h1{
   color: rgb(13, 0, 253);
@@ -101,8 +110,11 @@ header .branding h1{
 }
 
 nav {
-  border: 1px solid red;
-  display: none;
+  border: 1px solid rgba(0, 0, 0, 0);
+  background-color: aliceblue;
+  width: 20%;
+  position: fixed;
+  margin-left: 2px;
 }
 
 .recipe-teaser h1 a{
@@ -114,20 +126,20 @@ h1 a:hover {
   color:rgb(0, 0, 0);
 } 
 
-/* footer {
+footer {
   position: fixed;
   bottom: 0;
   width: 100%;
   height: 4em;
   background-color: black;
   font-size: .8em;
-} */
-/* 
+} 
+
 footer p{
   text-align: center;
   color: white;
   line-height: 3;
-} */
+} 
 
 button {
   display: block;
@@ -139,3 +151,41 @@ button {
   margin: 50px auto;
 }
 
+
+/* # for things labelled id  */
+#ingredients {
+  color: red;
+}
+
+.recipe-teaser {
+  border: 1px solid grey;
+  padding: 1em;
+  flex-basis: 300px;
+  flex-grow: 1;
+  margin:1em;
+
+}
+
+
+.list {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media screen and (max-width:700px) {
+  nav{
+    margin: 0;
+    position: static;
+    width: 100%;
+  }
+
+  nav ul{
+    font-size: 1rem;
+  }
+
+    main {
+      width: 100%;
+    }
+
+}
