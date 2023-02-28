@@ -62,15 +62,15 @@ main {
   /* border: 1px solid purple; */
   background-color: white;
   padding-bottom: 1px;
+  overflow: auto;
 }
 
 
-img { 
+.recipeshome img { 
   width: 90%;
   margin-left: 5%;
   margin-top: 15px;
-
-  /* float: right; */
+  float: none;
 }
 
 ul{
@@ -105,17 +105,28 @@ header {
   height: 5rem;
 }
 
+
 header .branding h1{
-  color: rgb(13, 0, 253);
+  color: rgb(0, 0, 0);
   font-size: 40px;
 }
-
+header a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
 nav {
   border: 1px solid rgba(0, 0, 0, 0);
-  background-color: aliceblue;
+  background-color:  rgba(250, 197, 197, 0.904);
+  font-size: 22px;
+  font-family: Georgia, 'Times New Roman', Times, serif; 
   width: 20%;
   position: fixed;
   margin-left: 2px;
+}
+
+nav ul li a{
+  color: white;
+  text-decoration: none;
 }
 
 .recipe-teaser h1 a{
@@ -166,7 +177,8 @@ button {
 
 
 .recipe-teaser {
-  border: 1px solid grey;
+  border: 2px solid rgb(0, 0, 0);
+  background-color:rgba(155, 208, 255, 0.644);
   padding: 1em;
   flex-basis: 300px;
   flex-grow: 1;
@@ -174,6 +186,10 @@ button {
 
 }
 
+.recipe img {
+  float: right;
+  width: 50%;
+}
 
 .list {
   display:flex;
@@ -181,7 +197,7 @@ button {
   justify-content: space-between;
 }
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:800px) {
   nav{
     margin: 0;
     position: static;
@@ -196,4 +212,15 @@ button {
       width: 100%;
     }
 
+    .recipe img {
+      float:none;
+      width:100%;
+    }
+
+}
+
+@media screen and (min-width:1000px) {
+  .recipe img {
+    width: 40%;
+  }
 }
