@@ -4,7 +4,7 @@ date: 2023-02-07T17:58:37.182Z
 order: 3
 layout: recipe
 ---
-intro for spaghetti and meatballs 
+Whether it's for a date night, like Lady and the Tramp, or for a family friendly meal, these Spaghetti and Meatballs are a foolproof tasty dish. 
 
 ![Spaghetti and meatballs ](../uploads/diego-ramirez-oc3lzi9p6ku-unsplash.jpg "Photo by via Unslash ")
 
