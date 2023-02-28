@@ -4,7 +4,7 @@ date: 2023-02-07T18:01:36.542Z
 order: 4
 layout: recipe
 ---
-into for ratatouille 
+As Remy once said "if you are what you eat, I want to eat the good stuff". This delicious meal is a great way to sneak in some veggies in a way that tastes incredible! 
 
 ![Ratatouille](../uploads/amirali-mirhashemian-r02kgl5ti3y-unsplash.jpg)
 
