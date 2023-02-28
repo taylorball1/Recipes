@@ -4,7 +4,7 @@ date: 2023-02-07T17:53:49.083Z
 order: 2
 layout: recipe
 ---
-i﻿ntro for apple crumble
+Make use of your (non-poison) apples with this easy and classic recipe which makes for a traditional and delicious dessert.
 
 ![Apple crumble ](../uploads/istockphoto-175242538-170667a.jpg)
 
