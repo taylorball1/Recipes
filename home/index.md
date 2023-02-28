@@ -6,10 +6,10 @@ layout: recipeshome
 published: true
 date: 2023-01-31T14:59:52.171Z
 ---
-Here is an introduction to my recipe site
+"What could be more important than a little something to eat." - Winnie the Pooh
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+Bring the on screen magic to life with this assortment of delicious Disney-inspired recipes. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The family friendly meals are mouthwatering, and the sweet treats are guaranteed to leave you wanting more. "Be our guest" and try them out by exploring each magical kingdom one by one, from Toy Story to Ratatouille. For the best possible experience, we recommend watching the films while you dig in, to feel as though you are really a part of the action. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Each recipe promises an easy and enjoyable cooking experience with absolutely scrumptious results.
