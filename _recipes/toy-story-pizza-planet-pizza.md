@@ -4,7 +4,7 @@ date: 2023-02-07T14:48:26.441Z
 order: 1
 layout: recipe
 ---
-I﻿ntro for pizza 
+There's only one thing better than pizza, and that's homemade pizza. Customise yours with your favourite toppings and enjoy, it's really that simple! 
 
 ![Homemade Pizza ](../uploads/sahal-hameed-nq9klqttebq-unsplash.jpg "Homemade Pizza ")
 
