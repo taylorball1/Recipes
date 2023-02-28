@@ -4,7 +4,7 @@ date: 2023-02-07T18:04:13.379Z
 order: 4
 layout: recipe
 ---
-I﻿ntro for cookies 
+Who doesn't love a gooey chocolate chip cookie...or five. This tasty sweet treat, inspired by Russell himself, leaves you only wanting more. Top tip: enjoy them while they're still warm! 
 
 ![Chocolate Chip cookies ](../uploads/food-photographer-jennifer-pallian-ofddiqx8cz8-unsplash.jpg)
 
