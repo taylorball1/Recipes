@@ -244,6 +244,9 @@ button {
     flex-direction: column;
     align-items: center;
   }
+  .caption{
+    float: left;
+  }
 }
 
 a {
@@ -347,4 +350,7 @@ border: 1px solid black;
   .recipe .spaghetti {
     margin-top: 0% !important;
   }
+}
+.post-content h2 {
+  padding-left: 1rem;
 }
