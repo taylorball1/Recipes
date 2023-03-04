@@ -29,8 +29,7 @@ Make use of your (non-poison) apples with this easy and classic recipe which mak
 
 ## M﻿ethod:
 
-1.Heat the oven to 190C/170 fan/gas 5.
-
+1. Heat the oven to 190C/170 fan/gas 5..
 2. Toss 575g peeled, cored and sliced Bramley apples with 2 tbsp golden caster sugar and put in a 23cm round baking dish at least 5cm deep, or a 20cm square dish. Flatten down with your hand to prevent too much crumble falling through.
 3. Put 175g plain flour and 110g golden caster sugar in a [bowl](https://www.bbcgoodfood.com/content/top-five-mixing-bowls) with a good pinch of salt.
 4. Slice in 110g cold butter and rub it in with your fingertips until the mixture looks like moist breadcrumbs. Shake the bowl and any big bits will come to the surface – rub them in. Alternatively, pulse in a [processor](https://www.bbcgoodfood.com/content/test-five-best-food-processors) until sandy (don’t over-process).
