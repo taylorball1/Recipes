@@ -77,7 +77,7 @@ ul{
   margin-left: 30px;
   /* columns: 2; */
   /* column-rule: 1px; */
-  margin-bottom: 3rem;
+  /* margin-bottom: 3rem; */
 }
 
 li {
@@ -352,4 +352,3 @@ border: 1px solid black;
 .post-content h2 {
   padding-left: 1rem;
 }
-
