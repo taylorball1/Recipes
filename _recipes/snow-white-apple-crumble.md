@@ -36,4 +36,14 @@ Make use of your (non-poison) apples with this easy and classic recipe which mak
 5. Pour the crumb mix over the apples to form a pile in the centre, then use a fork to even out.
 6. Gently press the surface with the back of the fork so the crumble holds together and goes crisp, then lightly drag the fork over the top for a decorative finish.
 7. Sprinkle 1 tbsp rolled oats and 1 tbsp demerara sugar over evenly, if you wish.
-8. Set on a baking tray and put in the preheated oven for 35-40 minutes, until the top is golden and the apples feel very soft when you insert a small, sharp knife. Leave to cool for 10 minutes before serving..
+8. Set on a baking tray and put in the preheated oven for 35-40 minutes, until the top is golden and the apples feel very soft when you insert a small, sharp knife. Leave to cool for 10 minutes before serving.
+
+## Nutritional Information and Servings:
+
+**S﻿erving size:** 4 servings 
+
+**Time:** 15 minutes for preparation, 40 minutes for cooking 
+
+**P﻿er serving:** kcal:608g, fat:24g, saturates:14g, carbs:90g, sugars:55g, fibre:5g, protien:6g, salt:0.6g
+
+T﻿his classic apple crumble recipe was published by Orlando Murrin via *BBC GoodFood.*
