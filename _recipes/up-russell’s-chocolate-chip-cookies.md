@@ -37,3 +37,5 @@ Who doesn't love a gooey chocolate chip cookie...or five. This tasty sweet treat
 **T﻿ime:** Prep: 15 minutes Cooking: 15 minutes
 
 **P﻿er cookie:** 148kcal, fat: 7.4g, carbs:20g, protein: 1.5g
+
+T﻿his recipe is by Tessa Arias
