@@ -6,7 +6,7 @@ layout: recipe
 ---
 Whether it's for a date night, like Lady and the Tramp, or for a family friendly meal, these Spaghetti and Meatballs are a foolproof tasty dish. 
 
-![Spaghetti and meatballs ](../uploads/diego-ramirez-oc3lzi9p6ku-unsplash.jpg "Photo by via Unslash ")
+![Spaghetti and meatballs ](../uploads/diego-ramirez-oc3lzi9p6ku-unsplash.jpg "Photo by Diego Ramirez on Unsplash ")
 
 ## **Ingredients:**
 
@@ -32,8 +32,10 @@ Whether it's for a date night, like Lady and the Tramp, or for a family friendly
 6. Cover, reduce heat, and simmer for 10 minutes or until the meatballs are done, stirring occasionally.
 7. Serve the meatballs over spaghetti, and sprinkle with Parmesan cheese and fresh basil.
 
-## **Nutritional Info:**
+## **Nutritional Info and Servings:**
 
+S﻿erves: 5 people
 
+P﻿er serving: 476kcal, fat:10g, protein:38.2g, carbs:42.8g
 
-b﻿lah blah
+T﻿his recipe is by *CookingLight*
