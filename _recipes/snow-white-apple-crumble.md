@@ -6,7 +6,7 @@ layout: recipe
 ---
 Make use of your (non-poison) apples with this easy and classic recipe which makes for a traditional and delicious dessert.
 
-![Apple crumble ](../uploads/istockphoto-175242538-170667a.jpg)
+![Apple crumble ](../uploads/fbaeccbd-93ab-4b4d-8a6f-4397a5f3e1c7.jpg "Photo by Taylor Ball, 2023")
 
 ## Ingredients:
 
