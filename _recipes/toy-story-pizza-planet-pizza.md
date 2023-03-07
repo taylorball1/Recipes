@@ -31,12 +31,10 @@ There's only one thing better than pizza, and that's homemade pizza. Customise y
 7. Bake for 15-20 minutes, or until the cheese is melted and bubbly.
 8. Cut evenly into eight triangular slices and enjoy!
 
-![Pizza Planet Rocket ](../uploads/brie-odom-mabey-gkq-qhccbvy-unsplash.jpg "Pizza Planet Rocket ")
-
 ## Nutritional Info and Servings:
 
 **S﻿erving size:** 8 slices
 
 **T﻿ime:** around 1 hour
 
-P﻿er slice: 170kcals, Fat:4g, Carbs:28g, Protein:5g
+**P﻿er slice:** 170kcals, Fat:4g, Carbs:28g, Protein:5g
