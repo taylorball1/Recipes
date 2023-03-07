@@ -6,7 +6,7 @@ layout: recipe
 ---
 As Remy once said "if you are what you eat, I want to eat the good stuff". This delicious meal is a great way to sneak in some veggies in a way that tastes incredible! 
 
-![Ratatouille](../uploads/amirali-mirhashemian-r02kgl5ti3y-unsplash.jpg)
+![Ratatouille](../uploads/amirali-mirhashemian-r02kgl5ti3y-unsplash.jpg "Photo by Amirali Mirhashemian on Unsplash ")
 
 ## I﻿ngredients
 
@@ -31,3 +31,11 @@ As Remy once said "if you are what you eat, I want to eat the good stuff". This 
 6. Fry the courgettes in another tbsp oil for 5 mins, until golden on both sides. Repeat with the peppers. Don’t overcook the vegetables at this stage.
 7. Tear up the leaves from the bunch of basil and set aside. Cook 1 thinly sliced medium onion in the pan for 5 minutes. Add 3 crushed garlic cloves and fry for a further minute. Stir in 1 tbsp red wine vinegar and 1 tsp sugar, then tip in the tomatoes and half the basil.
 8. Return the vegetables to the pan with some salt and pepper and cook for 5 mins. Serve with basil.
+
+## Nutritional Info and Servings:
+
+**S﻿erves**: 4 people
+
+**T﻿ime:** prep: 15 minutes cook: 35 minutes 
+
+**Whole dish:** 261kcal, fat:15g, carbs:19g, fibre:11g, protein:6g
