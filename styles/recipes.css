@@ -343,7 +343,7 @@ border: 1px solid black;
 }
 @media (min-width: 1200px){
   .recipe img {
-    margin-top: 7% !important;
+    margin-top: 5% !important;
   }
   .recipe .spaghetti {
     margin-top: 0% !important;
