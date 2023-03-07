@@ -300,9 +300,7 @@ main {
     color: white !important;
     margin-left: 0;
 }
-.post-content ul{
-  min-height: 220px;
-}
+
 nav a:hover {
     text-decoration: underline;
 }
@@ -354,3 +352,4 @@ border: 1px solid black;
 .post-content h2 {
   padding-left: 1rem;
 }
+
