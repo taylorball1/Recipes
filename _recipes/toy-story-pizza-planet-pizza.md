@@ -6,7 +6,7 @@ layout: recipe
 ---
 There's only one thing better than pizza, and that's homemade pizza. Customise yours with your favourite toppings and enjoy, it's really that simple! 
 
-![Homemade Pizza ](../uploads/sahal-hameed-nq9klqttebq-unsplash.jpg "Homemade Pizza ")
+![Homemade Pizza ](../uploads/sahal-hameed-nq9klqttebq-unsplash.jpg "Photo by Sahal Hameed on Unsplash ")
 
 ## **Ingredients**
 
@@ -32,3 +32,11 @@ There's only one thing better than pizza, and that's homemade pizza. Customise y
 8. Cut evenly into eight triangular slices and enjoy!
 
 ![Pizza Planet Rocket ](../uploads/brie-odom-mabey-gkq-qhccbvy-unsplash.jpg "Pizza Planet Rocket ")
+
+## Nutritional Info and Servings:
+
+**S﻿erving size:** 8 slices
+
+**T﻿ime:** around 1 hour
+
+P﻿er slice: 170kcals, Fat:4g, Carbs:28g, Protein:5g
