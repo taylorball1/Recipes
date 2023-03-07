@@ -6,7 +6,7 @@ layout: recipe
 ---
 Who doesn't love a gooey chocolate chip cookie...or five. This tasty sweet treat, inspired by Russell himself, leaves you only wanting more. Top tip: enjoy them while they're still warm! 
 
-![Chocolate Chip cookies ](../uploads/food-photographer-jennifer-pallian-ofddiqx8cz8-unsplash.jpg)
+![Chocolate Chip cookies ](../uploads/food-photographer-jennifer-pallian-ofddiqx8cz8-unsplash.jpg "Photo by Jenifer Pallian on Unsplash ")
 
 ## I﻿ngredients:
 
@@ -29,3 +29,11 @@ Who doesn't love a gooey chocolate chip cookie...or five. This tasty sweet treat
 5. Divide the dough into 3-tablespoon sized balls using a large cookie scoop and drop onto prepared baking sheets.
 6. Bake for 11-13 minutes, or until golden brown. Cool for 5 minutes before removing to wire racks to cool completely.
 7. Although I prefer cookies fresh from the oven, these can be stored in an airtight container for up to 3 days. See post for storage tips.
+
+## Nutritional Information and Servings:
+
+**S﻿erving:** 26 cookies 
+
+**T﻿ime:** Prep: 15 minutes Cooking: 15 minutes
+
+**P﻿er cookie:** 148kcal, fat: 7.4g, carbs:20g, protein: 1.5g
